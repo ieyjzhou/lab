@@ -1,8 +1,6 @@
 
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="https://ieyjzhou.github.io/">openings</a> for more info
-  email: your@email.com
+- name: "宋宁宁"
+  email: songningn@126.com
   number_educ: 0
-  education1:
+  education1: 浙江大学（直博）
