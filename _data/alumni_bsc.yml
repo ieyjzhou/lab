@@ -1,5 +1,32 @@
 
-- name: "宋宁宁"
+- name: 宋宁宁 (2022届)
   email: songningn@126.com
-  number_educ: 0
-  education1: 浙江大学（直博）
+  number_educ: 2
+  education1: 郑州大学（工业工程）
+  education2: 浙江大学（直博）
+
+- name: 化晶晶 (2022届)
+  email: huajingjing455@126.com
+  number_educ: 2
+  education1: 郑州大学（物流管理）
+  education2: 东南大学（硕士）
+  
+ 
+- name: 刘林 (2022届)
+  email: liulin1755@163.com
+  number_educ: 2
+  education1: 郑州大学（物流管理）
+  education2: 东北大学（硕士） 
+
+ 
+- name: 王晓龙 (2022届)
+  email: wangxiaolongzzustu@163.com
+  number_educ: 2
+  education1: 郑州大学（物流管理）
+  education2: 电子科技大学（硕士） 
+ 
+- name: 程晓杰 (2022届)
+  email: c18239204513@163.com
+  number_educ: 2
+  education1: 郑州大学（物流管理）
+  education2: 中南大学（硕士） 
