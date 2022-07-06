@@ -9,10 +9,16 @@
 #  education4:
 
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="https://ieyjzhou.github.io/">openings</a> for more info
-  email: your@email.com
-  number_educ: 0
-  education1:
-  
+- name: 罗利萍 （2022级）
+  info: 研究方向：仓储运营管理
+  email: lipingluo-llp@foxmail.com
+  number_educ: 2
+  education1: 河南财经政法大学 （物流管理）
+  education2: 郑州大学 （管理科学与工程）
+ 
+ - name: 李耀辉 （2022级）
+  info: 研究方向：仓储运营管理
+  email: liyh221@163.com
+  number_educ: 2
+  education1: 郑州大学 （工业工程）
+  education2: 郑州大学 （管理科学与工程）
