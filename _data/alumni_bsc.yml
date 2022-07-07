@@ -36,3 +36,14 @@
   number_educ: 1
   education1: "郑州大学（电子商务）"
   
+  
+- name: "陈浩南 (2021届)"  
+  number_educ: 2
+  education1: "郑州大学（物流管理）"
+  education2: "湖南大学（硕士）"
+  
+  
+- name: "王航 (2021届)"  
+  number_educ: 2
+  education1: "郑州大学（物流管理）"
+  education2: "郑州大学（硕士）"
