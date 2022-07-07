@@ -293,7 +293,7 @@ Jump to [faculty](#Faculty), [master and bachelor students](#master-and-bachelor
 {% endfor %}
 </div>
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
   
   {% assign number_printed = 0 %}
