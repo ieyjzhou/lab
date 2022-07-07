@@ -327,9 +327,6 @@ Jump to [faculty](#Faculty), [master and bachelor students](#master-and-bachelor
    
 {% for member in site.data.alumni_bsc %}
 
- 
-
- 
   {{ member.name }} 
   <ul >  
   {% if member.number_educ == 1 %}
@@ -357,13 +354,9 @@ Jump to [faculty](#Faculty), [master and bachelor students](#master-and-bachelor
   </ul>
   
  
-
- 
-</div>
- 
-
 {% endfor %}
  
  </div>
+  </div>
 
 
