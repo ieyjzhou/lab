@@ -1,6 +1,6 @@
 ---
 title: "CIEG - Team"
-layout: gridlay
+layout: textlay
 excerpt: "CIEG: Team members"
 sitemap: false
 permalink: /team/
