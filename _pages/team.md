@@ -279,14 +279,14 @@ Jump to [faculty](#Faculty), [master and bachelor students](#master-and-bachelor
 ## Former visitors, BSc/ MSc students
 <div class="row">
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
@@ -306,7 +306,7 @@ Jump to [faculty](#Faculty), [master and bachelor students](#master-and-bachelor
 {% endif %}
 
 <div class="col-sm-6 clearfix">  
-  <h4>{{ member.name }}</h4>
+  {{ member.name }} 
   <ul style="overflow: hidden">  
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
