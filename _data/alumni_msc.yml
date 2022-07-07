@@ -1,6 +1,10 @@
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="https://ieyjzhou.github.io/">openings</a> for more info
+- name: "陈栓栓"  
   email: your@email.com
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: 郑州大学（硕士）
+
+- name: "刘凤致"  
+  email: your@email.com
+  number_educ: 2
+  education1: 郑州大学（硕士）
+  education2: 南开大学（攻读博士）
