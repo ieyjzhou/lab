@@ -1,5 +1,23 @@
-- name: "钱泽昊 (2019级)"
+- name: Zehao Qian
+  info: 2019
   email: QianZeHao123@outlook.com
   number_educ: 1
-  education1: "郑州大学（工业工程）"
+  education1: Zhengzhou University（Industrial Engineering）
 
+- name: Rui Lan
+  info: 2019
+  email: 
+  number_educ: 1
+  education1: Zhengzhou University（Logistic Management）
+
+- name: Chenye Ma
+  info: 2019
+  email: 
+  number_educ: 1
+  education1: Zhengzhou University（Logistic Management）
+  
+- name: Lu Chen
+  info: 2019
+  email: 
+  number_educ: 1
+  education1: Zhengzhou University（Logistic Management）
