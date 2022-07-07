@@ -307,7 +307,7 @@ Jump to [faculty](#Faculty), [master and bachelor students](#master-and-bachelor
 
 <div class="col-sm-6 clearfix">  
   {{ member.name }} 
-  <ul style="overflow: hidden">  
+  <ul >  
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
