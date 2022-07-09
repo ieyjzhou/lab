@@ -4,6 +4,11 @@
   number_educ: 1
   education1: Zhengzhou University（Industrial Engineering）
 
+- name: Yanchun Ma
+  info: started from 2022.06  
+  number_educ: 1
+  education1: Zhengzhou University（Industrial Engineering）
+
 - name: Rui Lan
   info: started from 2022.06
   email: 
@@ -21,3 +26,9 @@
   email: 
   number_educ: 1
   education1: Zhengzhou University（Logistic Management）
+  
+- name: Cong Jin
+  info: started from 2022.06  
+  number_educ: 1
+  education1: Zhengzhou University（Logistic Management）  
+  
