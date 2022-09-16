@@ -51,8 +51,7 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
 
 **Funding and cooperators are from**
 
-<div class="post-content">
-    
+
   
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSFC.png" style="width: 210px">   
@@ -67,10 +66,11 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/University_of_Kent.png" style="width: 110px">    
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTBM_Logo.jpg" style="width: 110px">  
 </figure>    
+
 <figure class="fourth">
   <img src="https://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" style="width: 110px">     
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tianjin.png" style="width: 110px">    
   <img src="https://ieyjzhou.github.io/images/zjulogo.jpg" style="width: 110px">        
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nankai.png" style="width: 120px"> 
 </figure>
-</div>
+
