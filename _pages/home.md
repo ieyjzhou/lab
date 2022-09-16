@@ -55,9 +55,9 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSFC.png" style="width: 210px">   
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BerkeleyLab.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SNU.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESSCA.png" style="width: 110px">  
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VIT.png" style="width: 110px">   
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESSCA.png" style="width: 110px">      
   <img src="https://www.most.gov.cn/images/header-title.png" style="width: 210px">     
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VIT.png" style="width: 110px"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/deakin.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/University_of_Kent.png" style="width: 110px">    
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTBM_Logo.jpg" style="width: 110px">  
