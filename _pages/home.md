@@ -47,8 +47,24 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
 
 
 
-
  **We are  looking for passionate new undergraduate, and Master students to join the team** [(more info)](https://ieyjzhou.github.io/lab/Openpositions.html) **!**
+
+**Funding and cooperators are from **
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSFC.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BerkeleyLab.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VIT.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTBM_Logo.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/deakin.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/University_of_Kent.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESSCA.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SNU.jpg" style="width: 110px">
+    <img src="https://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" style="width: 110px">
+    <img src="https://ieyjzhou.github.io/images/zjulogo.jpg" style="width: 110px">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tianjin.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nankai.jpg" style="width: 120px">
+</figure>
 
  
 
