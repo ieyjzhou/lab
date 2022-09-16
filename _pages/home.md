@@ -52,18 +52,18 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
 **Funding and cooperators are from **
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSFC.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BerkeleyLab.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VIT.jpg" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTBM_Logo.jpg" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/deakin.jpg" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/University_of_Kent.jpg" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESSCA.jpg" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SNU.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSFC.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BerkeleyLab.png" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SNU.png" style="width: 110px">
     <img src="https://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" style="width: 110px">
-    <img src="https://ieyjzhou.github.io/images/zjulogo.jpg" style="width: 110px">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tianjin.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nankai.jpg" style="width: 120px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/deakin.png" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/University_of_Kent.png" style="width: 110px">    
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTBM_Logo.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VIT.png" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESSCA.png" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tianjin.png" style="width: 110px">    
+    <img src="https://ieyjzhou.github.io/images/zjulogo.jpg" style="width: 110px">        
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nankai.png" style="width: 120px">
 </figure>
 
  
