@@ -51,6 +51,9 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
 
 **Funding and cooperators are from**
 
+<div class="post-content">
+    
+  
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSFC.png" style="width: 210px">   
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BerkeleyLab.png" style="width: 110px">
@@ -70,3 +73,4 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
   <img src="https://ieyjzhou.github.io/images/zjulogo.jpg" style="width: 110px">        
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nankai.png" style="width: 120px"> 
 </figure>
+</div>
