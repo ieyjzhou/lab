@@ -47,7 +47,7 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
 
 
 
- **We are  looking for passionate new undergraduate, and Master students to join the team** [(more info)](https://ieyjzhou.github.io/lab/Openpositions.html) **!**
+ **CIEG is looking for passionate undergraduate, master students, Ph.D. students to join the team. CIEG welcomes applicants of all backgrounds to apply. ** [(more info)](https://ieyjzhou.github.io/lab/Openpositions.html) **!**
 
 **Funding and cooperators are from**
 
