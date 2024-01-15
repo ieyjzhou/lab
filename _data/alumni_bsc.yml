@@ -34,7 +34,6 @@
   education1: "郑州大学（物流管理）"
   education2: "重庆大学（攻读硕士）"
 
-
 - name: "兰蕊 (2023届)"
   email: *****@126.com
   number_educ: 2
@@ -46,7 +45,6 @@
   number_educ: 2
   education1: "郑州大学（工业工程）"
   education2: "北京航空航天大学（攻读硕士）"
-
 
 - name: "钱泽昊 (2023届)"
   email: *****@126.com
@@ -71,14 +69,12 @@
   number_educ: 2
   education1: "郑州大学（物流管理）"
   education2: "东南大学（攻读硕士）"
-  
  
 - name: 刘林 (2022届)
   email: liulin1755@163.com
   number_educ: 2
   education1: "郑州大学（物流管理）"
   education2: "东北大学（攻读硕士）" 
-
  
 - name: "王晓龙 (2022届)"
   email: wangxiaolongzzustu@163.com
@@ -91,13 +87,11 @@
   number_educ: 2
   education1: "郑州大学（物流管理）"
   education2: "中南大学（攻读硕士）"
-
   
 - name: "陈浩南 (2021届)"  
   number_educ: 2
   education1: "郑州大学（物流管理）"
-  education2: "湖南大学（攻读硕士）"
-  
+  education2: "湖南大学（攻读硕士）" 
   
 - name: "王航 (2021届)"  
   number_educ: 2
