@@ -1,1 +1,11 @@
+- name: "陈栓栓 (2022届)"  
+  email: your@email.com
+  number_educ: 1
+  education1: 郑州大学（硕士）
+
+- name: "刘凤致 (2022届)"  
+  email: your@email.com
+  number_educ: 2
+  education1: 郑州大学（硕士）
+  education2: 南开大学（攻读博士）
 
