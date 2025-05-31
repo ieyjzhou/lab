@@ -1,6 +1,15 @@
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="https://ieyjzhou.github.io/">openings</a> for more info
-  email: your@email.com
-  number_educ: 0
-  education1:
+- name: Liping Luo
+  photo: LuoLiPing.jpg
+  info:  started from 2022.09
+  email: lipingluo-llp@foxmail.com
+  number_educ: 2
+  education1: Henan University of Economics and Law （Logistics Management）
+  education2: Zhengzhou University （Management Science and Engineering）
+ 
+- name: Yaohui Li
+  photo: 22liyaohui.png
+  info: started from 2022.09
+  email: zgyhli@163.com
+  number_educ: 2
+  education1: Zhengzhou University （Industrial Engineering）
+  education2: Zhengzhou University （Management Science and Engineering）
