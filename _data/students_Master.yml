@@ -1,20 +1,4 @@
 
-- name: Liping Luo
-  photo: LuoLiPing.jpg
-  info:  started from 2022.09
-  email: lipingluo-llp@foxmail.com
-  number_educ: 2
-  education1: Henan University of Economics and Law （Logistics Management）
-  education2: Zhengzhou University （Management Science and Engineering）
- 
-- name: Yaohui Li
-  photo: 22liyaohui.png
-  info: started from 2022.09
-  email: zgyhli@163.com
-  number_educ: 2
-  education1: Zhengzhou University （Industrial Engineering）
-  education2: Zhengzhou University （Management Science and Engineering）
-
 
 - name: Huijie Li 
   photo: 23lihuijie.jpg
@@ -54,7 +38,7 @@
   info: started from 2024.09 
   email: 18522537705@163.com
   number_educ: 2
-  education1:  Tianjin University of Science and Technology（Logistics Management）
+  education1: Tianjin University of Science and Technology（Logistics Management）
   education2: Zhengzhou University （Management Science and Engineering）  
 
 - name: Yihe Zhao
