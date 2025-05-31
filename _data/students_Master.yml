@@ -24,13 +24,6 @@
   education1: Hefei University of Technology（logistics management）
   education2: Zhengzhou University （Management Science and Engineering）
 
-- name: Xiaojin Wang 
-  photo: 23wangxiaojin.jpg
-  info: started from 2023.09 
-  email: 1970591837@qq.com
-  number_educ: 2
-  education1:  Henan University of Science and Technology（International Economics and Trade）
-  education2: Zhengzhou University （Logistics Engineering and Management）
 
 - name: Zhicheng Zhang 
   photo: 23zhangzhicheng.jpg
@@ -39,6 +32,14 @@
   number_educ: 2
   education1: Zhengzhou University （Electronic Commerce）
   education2: Zhengzhou University （Management Science and Engineering）
+
+- name: Xiaojin Wang 
+  photo: 23wangxiaojin.jpg
+  info: started from 2023.09 
+  email: 1970591837@qq.com
+  number_educ: 2
+  education1:  Henan University of Science and Technology（International Economics and Trade）
+  education2: Zhengzhou University （Logistics Engineering and Management）
 
 - name: Xiang Zhao 
   photo: 23zhaoxiang.jpg
@@ -63,7 +64,24 @@
   number_educ: 2
   education1: Zhengzhou University of Aeronautics (Industrial Engineering)   
   education2: Zhengzhou University （Industrial Engineering and Management） 
+
+
+- name: Yaqing Kang
+  photo: 24kangyaqing.jpg
+  info: started from 2024.09 
+  email: K18839415760@163.com
+  number_educ: 2
+  education1: Luoyang Normal University (Business Administration)   
+  education2: Zhengzhou University (Business Administration） 
   
+
+- name: Pengfei Ding
+  photo: 24dingpengfei.jpg
+  info: started from 2024.09 
+  email: dingpengfei21@163.com
+  number_educ: 2
+  education1: Northeast Forestry University（Logistics Engineering）
+  education2: Zhengzhou University （Logistics Engineering and Management） 
 
 - name: Rongze Li
   photo: 25lirongze.jpg
