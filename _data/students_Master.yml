@@ -83,13 +83,7 @@
   education1: Northeast Forestry University（Logistics Engineering）
   education2: Zhengzhou University （Logistics Engineering and Management） 
 
-- name: Rongze Li
-  photo: 25lirongze.jpg
-  info: started from 2025.09 
-  email: 16696032981@qq.com
-  number_educ: 2
-  education1: Zhengzhou University of Aeronautics （Logistics Management）  
-  education2: Zhengzhou University （Logistics Engineering and Management） 
+
 
 - name: Mingzhen Wu
   photo: 25wumingzhen.jpg
@@ -98,6 +92,14 @@
   number_educ: 2
   education1: Henan University（Business Administration）  
   education2: Zhengzhou University （Management Science and Engineering） 
+
+- name: Rongze Li
+  photo: 25lirongze.jpg
+  info: started from 2025.09 
+  email: 16696032981@qq.com
+  number_educ: 2
+  education1: Zhengzhou University of Aeronautics （Logistics Management）  
+  education2: Zhengzhou University （Logistics Engineering and Management） 
 
 - name: Xinyu Zhang
   photo: 25zhangxinyu.jpg
