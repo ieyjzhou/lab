@@ -20,8 +20,11 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
- 
+        
         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/2026sep-group.jpg" alt="Slide 0" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LabmeetingSig.jpg" alt="Slide 1" />
         </div>
         
